@@ -1,0 +1,35 @@
+HOME PAGE
+
++----------------------+
+|      SkillLink       |
++----------------------+
+
+[ Worker Login ]
+
+[ Business Login ]
+
+[ Register ]
+
+Find Work • Hire Workers
+
+WORKER DASHBOARD
+
+Available Jobs
+
+Hotel ABC
+Skill: Chef
+Salary: ₹1500/day
+Location: Madurai
+Rating: ⭐4.8
+
+[ Apply ]
+
+BUSINESS DASHBOARD
+
+Post Job
+
+Skill Required: Chef
+Salary: ₹1500
+Date: Today
+
+[ Post Job ]
